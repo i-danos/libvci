@@ -1,0 +1,12 @@
+Package: libvci-perl-dbgsym
+Source: libvci
+Version: 1.10
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Installed-Size: 113
+Depends: libvci-perl (= 1.10)
+Section: contrib/debug
+Priority: optional
+Description: debug symbols for libvci-perl
+Build-Ids: ed0af4e1c186df8762cc5e3bef86c637ce087b93

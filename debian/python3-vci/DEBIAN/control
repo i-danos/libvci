@@ -1,0 +1,11 @@
+Package: python3-vci
+Source: libvci
+Version: 1.10
+Architecture: amd64
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Installed-Size: 236
+Depends: libvci1 (= 1.10), python3 (<< 3.14), python3 (>= 3.13~), python3:any, libc6 (>= 2.32), libgcc-s1 (>= 3.0), libstdc++6 (>= 14)
+Section: contrib/python
+Priority: optional
+Description: Python 3 bindings to Vyatta Component Infrastructure library
+ Python 3 wrapper for Vyatta Component Infrastructure API

@@ -1,6 +1,7 @@
 #!/usr/bin/make -f
 export GOPATH=/usr/share/gocode
+export GO111MODULE=off
 export DEB_BUILD_MAINT_OPTIONS = hardening=+all
 
 %:
-	dh $@ --with python3
+	dh $@ --with python3 --buildsystem=makefile

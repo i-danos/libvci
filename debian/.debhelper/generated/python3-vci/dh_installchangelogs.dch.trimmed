@@ -1,0 +1,45 @@
+libvci (1.10) unstable; urgency=medium
+
+  [ William Ivory ]
+  * Fix compat level and swig refs for deb11 build
+
+  [ John Southworth ]
+  * Add support for methods that wish to receive metadata.
+
+ -- Paul Carson <paul.carson@intl.att.com>  Thu, 01 Jul 2021 14:05:28 +0100
+
+libvci (1.9) unstable; urgency=medium
+
+  [ John Southworth ]
+  * Map C++ exceptions to python exceptions
+
+ -- William Ivory <william.ivory@intl.att.com>  Tue, 23 Feb 2021 13:48:11 +0000
+
+libvci (1.8) unstable; urgency=medium
+
+  [ John Southworth ]
+  * Don't require Config/Get method
+
+ -- William Ivory <william.ivory@intl.att.com>  Wed, 22 Jul 2020 11:42:05 +0100
+
+libvci (1.7) unstable; urgency=medium
+
+  [ John Southworth ]
+  * Use native python3 class as the exception type.
+
+  [ William Ivory ]
+  * Fix construction of VCI RPC management errors (Closes: VRVDR-49736)
+
+ -- William Ivory <william.ivory@intl.att.com>  Fri, 03 Apr 2020 11:41:44 +0100
+
+libvci (1.6) unstable; urgency=medium
+
+  * DANOS Import Master
+
+ -- Vyatta Package Maintainers <DL-vyatta-help@att.com>  Tue, 19 Nov 2019 23:59:00 +0000
+
+libvci (1.5) unstable; urgency=medium
+
+  * DANOS Import
+
+ -- Vyatta Package Maintainers <DL-vyatta-help@att.com>  Tue, 12 Nov 2019 10:55:39 +0000

@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib/x86_64-linux-gnu
+includedir=${exec_prefix}/include
+
+Name: vci
+Description: VCI library
+Version: 1.0.0
+Libs: -L${libdir} -lvci
+Cflags: -I${includedir}

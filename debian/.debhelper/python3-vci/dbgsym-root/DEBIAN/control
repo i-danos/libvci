@@ -1,0 +1,12 @@
+Package: python3-vci-dbgsym
+Source: libvci
+Version: 1.10
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Installed-Size: 505
+Depends: python3-vci (= 1.10)
+Section: contrib/debug
+Priority: optional
+Description: debug symbols for python3-vci
+Build-Ids: e3f658ebab7c83e311b1ca5f5cdf061553ed11cc
