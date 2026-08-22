@@ -1,8 +1,0 @@
-libvci-dev_1.10_amd64.deb contrib/libdevel optional
-libvci-perl-dbgsym_1.10_amd64.deb contrib/debug optional automatic=yes
-libvci-perl_1.10_amd64.deb contrib/perl optional
-libvci1-dbgsym_1.10_amd64.deb contrib/debug optional automatic=yes
-libvci1_1.10_amd64.deb contrib/net optional
-libvci_1.10_amd64.buildinfo contrib/net optional
-python3-vci-dbgsym_1.10_amd64.deb contrib/debug optional automatic=yes
-python3-vci_1.10_amd64.deb contrib/python optional
