@@ -1,0 +1,11 @@
+/tmp/
+/.debhelper/
+/files
+/*.substvars
+/*.debhelper.log
+/debhelper-build-stamp
+/autoreconf.*
+/libvci1/
+/libvci-dev/
+/python3-vci/
+/libvci-perl/
